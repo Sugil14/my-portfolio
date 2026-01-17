@@ -100,7 +100,7 @@ function App() {
             </div>
             <div>
               <p className="label">Email</p>
-              <p className="value">sugilll4@gmail.com</p>
+              <p className="value">sugilll14@gmail.com</p>
             </div>
             <div>
               <p className="label">Location</p>
@@ -110,7 +110,7 @@ function App() {
               <p className="label">LinkedIn</p>
               <a
                 className="value link"
-                href="https://www.linkedin.com/in/sugil14"
+                href="https://www.linkedin.com/in/sugilll14"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -124,7 +124,7 @@ function App() {
             </a>
             <a
               className="btn ghost"
-              href="https://www.linkedin.com/in/sugil14"
+              href="https://www.linkedin.com/in/sugilll14"
               target="_blank"
               rel="noreferrer"
             >
